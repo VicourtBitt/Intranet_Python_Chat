@@ -1,0 +1,2 @@
+getmac==0.9.4
+paho-mqtt==2.0.0

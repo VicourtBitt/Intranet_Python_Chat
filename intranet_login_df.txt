@@ -1,0 +1,20 @@
+{
+  "Michael": {
+    "username": "Michael",
+    "password": "Berow",
+    "Date Creation": "17/04 - 20:37",
+    "MAC_ADDRESS": "50:5b:c2:b4:44:bd"
+  },
+  "Gregor": {
+    "username": "Gregor",
+    "password": "Strahd",
+    "Date Creation": "17/04 - 20:38",
+    "MAC_ADDRESS": "50:5b:c2:b4:44:bd"
+  },
+  "Machine": {
+    "username": "Machine",
+    "password": "V1isTheBest",
+    "Date Creation": "17/04 - 20:39",
+    "MAC_ADDRESS": "50:5b:c2:b4:44:bd"
+  }
+}

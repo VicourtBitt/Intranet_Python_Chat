@@ -22,9 +22,7 @@ This project is meant to be an "internal network chat" like the ones we have ins
 
 I've created a Flet base program, but when the code reach the "display log" part, the Flet Aplication just crashes. I'll try to solve this error, probably this will take some time, but i'll manage to do reach a solution.
 
-
-
-## This Code Works With
+## 🛠️ This Code Works With
 I've created a Module named "CleanTerminarModule", this module is a simple way to explain, just cleans the terminal depending in which OS the User are at the moment.
 
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
@@ -33,6 +31,6 @@ I've created a Module named "CleanTerminarModule", this module is a simple way t
 ![MAC](https://img.shields.io/badge/MAC-FFFFFF?style=for-the-badge&logo=APPLE&logoColor=black)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Links
+## 🔗 Links
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VicourtBitt)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicourtbitt)

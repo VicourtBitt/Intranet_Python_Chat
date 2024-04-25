@@ -34,3 +34,10 @@ I've created a Module named "CleanTerminarModule", this module is a simple way t
 ## 🔗 Links
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VicourtBitt)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicourtbitt)
+
+# 🙋 How The Code Works
+These are some fluxograms that I've made for us all.
+
+![](https://github.com/VicourtBitt/Intranet_Python_Chat/blob/main/img_starter_page_before_main.png)
+
+![](https://github.com/VicourtBitt/Intranet_Python_Chat/blob/main/img_main_loop.png)

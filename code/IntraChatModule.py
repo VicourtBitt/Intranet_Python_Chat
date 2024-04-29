@@ -15,10 +15,10 @@ from paho.mqtt import publish
 import platform
 
 # Self Made Python Modules
-from UserCreationModuleNEW import UserCreation # , _publish_update (removed from main, added into module)
-from UserLoginModuleNEW import user_login, user_logout
+from UserCreationModule import UserCreation # , _publish_update (removed from main, added into module)
+from UserLoginModule import user_login, user_logout
 from CleanTerminalModule import clean_terminal
-import UserLoginModuleNEW
+import UserLoginModule
 
 # MQTT TOPICS - Pay Attention, they are very important
 MQTT_LOGIN_DICT = 'login-intranetchat'

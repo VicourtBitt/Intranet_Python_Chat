@@ -16,10 +16,10 @@ from paho.mqtt import publish
 import platform
 
 # Self Made Python Modules
-from UserCreationModuleNEW import UserCreation # , _publish_update (removed from main, added into module)
-from UserLoginModuleNEW import user_login, user_logout
+from UserCreationModule import UserCreation # , _publish_update (removed from main, added into module)
+from UserLoginModule import user_login, user_logout
 from CleanTerminalModule import clean_terminal
-import UserLoginModuleNEW
+import UserLoginModule
 
 # MQTT TOPICS - Pay Attention, they are very important
 MQTT_LOGIN_DICT = 'login-intranetchat'
@@ -178,7 +178,7 @@ def _send_message():
                 continue
             
             global _f_msg
-            _f_msg = f"[{_actual_datetime}] {UserLoginModuleNEW._username_variable}: {_msg_input}"
+            _f_msg = f"[{_actual_datetime}] {UserLoginModule._username_variable}: {_msg_input}"
 
             if _msg_input in ['!leave', '!exit']:
                 log_page.page_state = False
@@ -209,7 +209,7 @@ def _send_message():
 def _starter_page():
     """ Basically the first screen that will be opened to us """
     while True:
-        if UserLoginModuleNEW._username_variable != "":
+        if UserLoginModule._username_variable != "":
             break
             
         _action = input("What do you want to do? [login]-[register] ").lower()

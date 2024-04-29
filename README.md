@@ -7,7 +7,8 @@ This project works with only two Python third-party modules:
 Also, this project uses built-in modules:
 - 🗂️ [JSON](https://python.readthedocs.io/en/v2.7.2/library/json.html) to storage the messages from the MQTT retained topic;
 - ⏰ [DateTime](https://docs.python.org/3/library/datetime.html) to gather the specific time that the user sends the message or when the user registers;
-- 🧑‍💻 [SYS](https://docs.python.org/3/library/sys.html) to leave the code when we are at some specific conditions.
+- 🧑‍💻 [SYS](https://docs.python.org/3/library/sys.html) to leave the code when we are at some specific conditions;
+- 🗄️ [AST](https://docs.python.org/3/library/ast.html) to convert string list into lists with ast.literal_eval();
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MQTT](https://img.shields.io/badge/mqtt-5e5086?style=for-the-badge&logo=MQTT&logoColor=white)

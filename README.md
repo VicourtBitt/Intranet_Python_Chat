@@ -14,14 +14,18 @@ Also, this project uses built-in modules:
 ![MQTT](https://img.shields.io/badge/mqtt-5e5086?style=for-the-badge&logo=MQTT&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-F7DF1E?style=for-the-badge&logo=JSON&logoColor=black)
 
+
 ## ❓ Which Purpose Does This Project Have?
-This project is meant to be an "internal network chat" like the ones we have inside some companies around the world. The only purpose to use something like that is the supervising capacity the company will have.
+My project is all about creating an internal network chat system using Python, MQTT, and JSON. Python is the main language we're using to build the chat system, MQTT is how messages are sent and received securely, and JSON helps us store and organize data.
+I'm focused on making sure this chat system is easy to use and safe for company communications. With our mix of technologies, we're aiming to create a chat system that's both user-friendly and secure, so everyone in the company can communicate efficiently and without worries about privacy.
+
 
 ## 🔄 Possible Future Updates
 - DJango Framework (GUI); OR
 - Flet (GUI).
 
 I've created a Flet base program, but when the code reach the "display log" part, the Flet Aplication just crashes. I'll try to solve this error, probably this will take some time, but i'll manage to do reach a solution.
+
 
 ## 🛠️ This Code Works With
 I've created a Module named "CleanTerminarModule", this module is a simple way to explain, just cleans the terminal depending in which OS the User are at the moment.
@@ -32,9 +36,11 @@ I've created a Module named "CleanTerminarModule", this module is a simple way t
 ![MAC](https://img.shields.io/badge/MAC-FFFFFF?style=for-the-badge&logo=APPLE&logoColor=black)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
 ## 🔗 Links
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VicourtBitt)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicourtbitt)
+
 
 # 🙋 How The Code Works
 These are some fluxograms that I've made for us all.

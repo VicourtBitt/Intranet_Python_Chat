@@ -1,3 +1,5 @@
+![Logo](https://github.com/VicourtBitt/Intranet_Python_Chat/blob/main/imgs/project_intranet.png)
+
 # 💬 Intranet Python Chat 
 This project works with only two Python third-party modules:
 

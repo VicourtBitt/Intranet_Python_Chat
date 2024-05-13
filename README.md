@@ -45,6 +45,6 @@ I've created a Module named "CleanTerminarModule", this module is a simple way t
 # 🙋 How The Code Works
 These are some fluxograms that I've made for us all.
 
-![](https://github.com/VicourtBitt/Intranet_Python_Chat/blob/main/img_starter_page_before_main.png)
+![](https://github.com/VicourtBitt/Intranet_Python_Chat/blob/main/imgs/img_starter_page_before_main.png)
 
-![](https://github.com/VicourtBitt/Intranet_Python_Chat/blob/main/img_main_loop.png)
+![](https://github.com/VicourtBitt/Intranet_Python_Chat/blob/main/imgs/img_main_loop.png)
